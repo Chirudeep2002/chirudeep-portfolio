@@ -184,24 +184,27 @@ export default function Hero() {
           <div className="flex justify-center">
 
             <div
-              className="
-                w-[260px] h-[260px] md:w-[380px] md:h-[380px]
+  className="
+    w-[260px] h-[260px]
+    md:w-[380px] md:h-[380px]
 
-                float-animation
-                glow-animate
+    float-animation
+    glow-animate
 
-                rounded-full
+    rounded-full
 
-                glass
-                glow
+    glass
+    glow
 
-                flex items-center justify-center
+    border-2 border-cyan-400/20
 
-                border border-white/10
+    shadow-[0_0_60px_rgba(0,217,255,0.25)]
 
-                relative overflow-hidden
-              "
-            >
+    flex items-center justify-center
+
+    relative overflow-hidden
+  "
+>
 
               {/* INNER GLOW */}
               <div className="
@@ -211,13 +214,15 @@ export default function Hero() {
                 to-purple-500/10
               " />
 
-              <p className="
-                text-gray-400
-                relative z-10
-                text-lg
-              ">
-                Photo Coming Soon
-              </p>
+              <img
+                src="/Chirudeep.jpeg"
+                alt="Chirudeep Bandapalli"
+                className=" 
+                          w-full h-full
+                          object-cover
+                          object-top
+                          rounded-full
+                          relative z-10"/>
 
             </div>
 
