@@ -218,9 +218,11 @@ export default function Hero() {
                 src="/Chirudeep.jpeg"
                 alt="Chirudeep Bandapalli"
                 className=" 
+                          brightness-110
+                          contrast-110
                           w-full h-full
                           object-cover
-                          object-top
+                          object-[center_100%]
                           rounded-full
                           relative z-10"/>
 
