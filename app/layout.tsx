@@ -39,7 +39,7 @@ export const metadata: Metadata = {
       "AI Engineer, Software Developer, and Data Science Enthusiast building intelligent systems and scalable applications.",
 
     url:
-      "https://your-domain.vercel.app",
+      "https://chirudeep-system.vercel.app/",
 
     siteName:
       "CHIRU.SYSTEM",
