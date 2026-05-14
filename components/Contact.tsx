@@ -126,7 +126,7 @@ export default function Contact() {
 
               {/* LINKEDIN */}
               <a
-                href="https://www.linkedin.com/in/chiru007/"
+                href="https://www.linkedin.com/in/chirudeepbandapalli/"
                 target="_blank"
                 className="
                   glass rounded-3xl p-8
